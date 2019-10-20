@@ -195,11 +195,6 @@ void showMode() {
 }
 
 void homeScreen() {
-  //M5.Lcd.fillScreen(BLACK);
-  //M5.Lcd.setCursor(10,10);
-  //M5.Lcd.setTextSize(2);
-  //M5.Lcd.printf("M5Stick Thing");
-  //delay(5000);
   M5.Lcd.fillScreen(BLACK);
   M5.Lcd.setTextColor(WHITE);
   M5.Lcd.setTextSize(2);
